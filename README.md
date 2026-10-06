@@ -1,10 +1,10 @@
-# NombreAsignatura
+# Programación I
 
-Repo de materiales y proyectos de la asignatura **NombreAsignatura** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es).
+Repo de materiales y proyectos de la asignatura **PRG I** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es).
 
-## Curso *[x][x+1]*
+## Curso *[26][27]*
 
-- [Temario](temario/README.md)
+- [Temario](https://github.com/mmasias/PRG1/blob/main/temario/README.md)
   - [A día de hoy, deberíamos saber...](temario/aDiaDeHoy.md)
   - [Casos de uso](temario/casosDeUso/README.md)
   - [Ejercicios](temario/ejercicios/README.md)
@@ -21,19 +21,13 @@ Repo de materiales y proyectos de la asignatura **NombreAsignatura** del [Grado 
 
 - [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [PlantText](https://www.planttext.com/), para usar el formato [PlantUML](https://plantuml.com/es/) al realizar diagramas de:
-  - [actividades](https://plantuml.com/es/activity-diagram-beta)
-  - [estados](https://plantuml.com/es/state-diagram)
-  - [clases](https://plantuml.com/es/class-diagram)
-  - [objetos](https://plantuml.com/es/object-diagram)
-  - [y otros...](https://plantuml.com/es/sitemap-language-specification)
+- [PlantText](https://www.planttext.com/), para usar el formato [PlantUML](https://plantuml.com/es/) al realizar diagramas de: [actividades](https://plantuml.com/es/activity-diagram-beta) / [estados](https://plantuml.com/es/state-diagram) / [clases](https://plantuml.com/es/class-diagram) / [objetos](https://plantuml.com/es/object-diagram) / [y otros...](https://plantuml.com/es/sitemap-language-specification)
 - [Google Docs](https://drive.google.com/drive/u/0/my-drive)
-- [Plantillas](/documentos/plantillas.md)
+- [Plantillas](https://github.com/mmasias/26-27-prg1/tree/entregas/plantillas)
 
 ## Bibliografía & enlaces interesantes
 
 NOTA: *Algunos enlaces podrían requerir **credenciales de acceso al campus** o a otros espacios colaborativos.*
 
-- Hoja de asistencia et-al
+- [Hoja de asistencia et-al](https://docs.google.com/spreadsheets/d/1-5ZMY8Fma46Mbm-MItCj5Y5kDLqur-iFi7zJJCRlWWU/edit?usp=sharing)
 - Libro de la asignatura
-- Este repo, versión de ediciones pasadas
